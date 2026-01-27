@@ -1,0 +1,7 @@
+{
+  "messages": [
+    {"role": "user", "content": "what is low carbon concrete?"}
+  ],
+  "model": "rag-hybrid",
+  "stream": false
+}

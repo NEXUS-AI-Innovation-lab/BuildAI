@@ -1,0 +1,7 @@
+{
+  "messages": [
+    {"role": "user", "content": "qu'est-ce que le béton bas carbone ?"}
+  ],
+  "model": "rag-hybrid",
+  "stream": false
+}

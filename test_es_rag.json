@@ -1,0 +1,7 @@
+{
+  "messages": [
+    {"role": "user", "content": "que es el hormigon ecologico?"}
+  ],
+  "model": "rag-hybrid",
+  "stream": false
+}

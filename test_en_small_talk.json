@@ -1,0 +1,7 @@
+{
+  "messages": [
+    {"role": "user", "content": "hello how are you?"}
+  ],
+  "model": "rag-hybrid",
+  "stream": false
+}
